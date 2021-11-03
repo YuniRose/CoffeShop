@@ -7,15 +7,16 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Products</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/style.css">
 		<script type="text/javascript" src="https://ajax.microsoft.com/ajax/jQuery/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript" src="js/products.js"></script>
+		<script type="text/javascript" src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/products.js"></script>
 
 	</head>
 	<body>
 		<div id="body">
 			<div id="header">
-				<a href="sample.html"><img id="mainlogo" src="img/mainlogo.png" alt="Fourth Coffee Logo"/></a>
+				<a href="sample.html"><img id="mainlogo" src="
+https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/mainlogo.png" alt="Fourth Coffee Logo"/></a>
 				<h1 id="title">Fourth Coffee</h1>
 				<p id="tagline">Bringing the world to your cup</p>
 				<ul id="navlinks">
@@ -35,7 +36,8 @@
 			</div>
 			<div id="products_table">
 			</div>	
-				<script type="text/javascript" src="js/table.js"></script>
+				<script type="text/javascript" src="
+https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/table.js"></script>
 	        <br><br>
 	        <div id="order_form">
 	        	<a name="order"><h2>Order the coffee now</h2></a>

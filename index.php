@@ -3,15 +3,16 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Fourth Coffee</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/style.css">
 		<script type="text/javascript" src="https://ajax.microsoft.com/ajax/jQuery/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript" src="js/main.js"></script>
+		<script type="text/javascript" src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/main.js"></script>
 	</head>
 
 	<body>
 		<div id="body">
 			<div id="header">
-				<a><img id="mainlogo" src="img/mainlogo.png" alt="Fourth Coffee Logo"/></a>
+				<a><img id="mainlogo" src="
+https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/mainlogo.png" alt="Fourth Coffee Logo"/></a>
 				<h1 id="title">Fourth Coffee</h1>
 				<p id="tagline">Bringing the world to your cup</p>
 				<ul id="navlinks">
@@ -28,7 +29,7 @@
 			<div id="main">
 				<h2>Now in stock at Fourth Coffee!</h2>		
 				<div class="headline">
-					<a><img id="classic_pict" class="product_thumb" src="img/beans1.png" alt="Thumbnail picture of Classic Blend"/></a>
+					<a><img id="classic_pict" class="product_thumb" src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/beans1.png" alt="Thumbnail picture of Classic Blend"/></a>
 					<h3><a class="productlink" href="products.php">Classic Blend</a></h3>
 					<p class="product_desc classic">Classic Blend is... &nbsp;<a class="classic keep_reading">keep reading</a></p>
 					<div id="classic_desc">
@@ -37,7 +38,7 @@
 					<p class="product_orderinfo">Item #7849 | $49.99 <a href="products.php">Order Now!</a></p>
 				</div>
 				<div class="headline">
-					<a><img id="guatemalan_pict" class="product_thumb" src="img/beans2.png" alt="Thumbnail picture of Guatemalan Blend"/></a>
+					<a><img id="guatemalan_pict" class="product_thumb" src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/beans2.png" alt="Thumbnail picture of Guatemalan Blend"/></a>
 					<h3><a class="productlink" href="products.php">Guatemalan Blend</a></h3>
 					<p class="product_desc guatemalan">Guatemalan Blend is... &nbsp;<a class="guatemalan keep_reading">keep reading</a></p>
 					<div id="guatemalan_desc">
@@ -46,7 +47,7 @@
 					<p class="product_orderinfo">Item #9753 | $44.99  <a href="products.php">Order Now!</a></p>
 				</div>	
 				<div class="headline">
-					<a><img id="african_pict" class="product_thumb" src="img/beans3.png" alt="Thumbnail picture of African Blend"/></a>
+					<a><img id="african_pict" class="product_thumb" src="img/beans3.pnghttps://objectstorage.ap-sydney-1.oraclecloud.com/n/sd8nkrqwo9sk/b/bucket-utss/o/beans3.png" alt="Thumbnail picture of African Blend"/></a>
 					<h3><a class="productlink" href="products.php">African Blend</a></h3>
 					<p class="product_desc african">African Blend is... &nbsp;<a class="african keep_reading">keep reading</a></p>
 					<div id="african_desc">
